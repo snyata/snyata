@@ -8,10 +8,15 @@ THIS IS UNDER CONSTRUCTION BUT WILL FOLLOW MY JOURNEY IN OUR PEOPLE's MORE FUN/S
   core@synavate.tech
 
   --------------------
-- ML / LMMOPs
-- Knowledge Graphs
-- Human Cognition
+- ML / LMMOPs.
+- Knowledge Graphs.
+- Human Cognition.
+- Music.
 - Laughter.
+
+---------------------
+Py, TS, Experimenting w/ Mojo
+PyTorch, SkLearn, Pandas, Memgraph, etc and more funnnnn.....
 
 
 <!---
