@@ -19,10 +19,13 @@ THIS IS UNDER CONSTRUCTION BUT WILL FOLLOW MY JOURNEY IN OUR PEOPLE's MORE FUN/S
 - Knowledge Graphs.
 - Human Cognition.
 - Music.
+- Physics
+- Casual interest in QML
 - Laughter.
+- Dabbing
 
 ---------------------
-Py, TS, Experimenting w/ Mojo
+Py, TS, Experimenting w/ Mojo, Rust.
 PyTorch, SkLearn, Pandas, Memgraph, etc and more funnnnn.....
 
 
