@@ -1,5 +1,6 @@
 THIS IS UNDER CONSTRUCTION BUT WILL FOLLOW MY JOURNEY IN OUR PEOPLE's MORE FUN/SRSBSNS PROJECTS haha.
-["Synavate Github - POCv0.02"]("https://www.github.com/synavate/)
+
+## ["Synavate Github - POCv0.02"]("https://www.github.com/synavate/")
 
 ../../../../../../..  👋 👾
 
