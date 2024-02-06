@@ -2,7 +2,7 @@ THIS IS UNDER CONSTRUCTION BUT WILL FOLLOW MY JOURNEY IN OUR PEOPLE's MORE FUN/S
 
 ../../../../../../..  👋 👾
 
-    🔭 I’m currently working on: www.synavate.tech (v0.0.1 POC is in development following successful discovery & research)
+    🔭 I’m currently working on: www.synavate.tech (v0.0.2 POC is in development following successful discovery & research)
     🌱 I’m currently learning: ALL THE THINGS... Trying to implement the composite of my learnings into a product
     👯 I’m looking to collaborate on: Tooling for the AI Engineer... Knowledge Graph Tooling
     🤔 I’m looking for help with: ** Structuring my code in the most effective way... and when to use Classes. Also, generally doing interesting stuff and things...
