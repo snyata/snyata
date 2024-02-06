@@ -10,6 +10,7 @@ THIS IS UNDER CONSTRUCTION BUT WILL FOLLOW MY JOURNEY IN OUR PEOPLE's MORE FUN/S
 
 - Working on Synapse @ Synavate (Knowledge Graph based intuititive wisdom growth.)
   synavate.tech
+  https://github.com/synavate
 
   @TODO - UPDATE YO READ ME! :D 
   core@synavate.tech
