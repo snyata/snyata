@@ -1,4 +1,4 @@
-THIS IS UNDER CONSTRUCTION BUT WILL FOLLOW MY JOURNEY IN OUR PEOPLE's MORE FUN/SRSBSNS PROJECTS haha.
+THIS IS UNDER CONSTRUCTION HUZZAH!
 
 
 ## [Link Synavate Github - POCv0.02](https://www.github.com/synavate/)
@@ -17,7 +17,7 @@ THIS IS UNDER CONSTRUCTION BUT WILL FOLLOW MY JOURNEY IN OUR PEOPLE's MORE FUN/S
   https://github.com/synavate
 
   @TODO - UPDATE YO READ ME! :D 
-  core@synavate.tech || [Link Synavate Github - POCv0.02](https://www.github.com/synavate/)
+  core@synavate.tech || [Link Synavate Github - POCv0.0.3](https://www.github.com/synavate/)
 
   --------------------
 - ML / LMMOPs.
