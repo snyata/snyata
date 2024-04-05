@@ -1,14 +1,21 @@
-THIS IS UNDER CONSTRUCTION HUZZAH!
+# THIS IS UNDER CONSTRUCTION - Zen Mind, Beginner'ss Mind HUZZAH!
 
+# Projects
+### Synavate:
+### [Link Synavate Github - POCv0.02](https://www.github.com/synavate/)
 
-## [Link Synavate Github - POCv0.02](https://www.github.com/synavate/)
+### Defensive AI - Orion Constellation - A Hunter and a set of agents. Early exploration
+### [Link Orion Constellation Github - POCv0.02](https://www.github.com/synavate/)
+
+### QiskitRustkit - Exploring QML and Rust for more information saturation.
+### ### [Link Orion Agents Github - POCv0.02](https://www.github.com/synavate/)
 
 
 ../../../../../../..  👋 👾
 
-    🔭 I’m currently working on: [Synavate Github](https://github.com/synavate/) o www.synavate.tech (v0.0.2 POC is in development following successful discovery & research)
-    🌱 I’m currently learning: ALL THE THINGS... Trying to implement the composite of my learnings into a product
-    👯 I’m looking to collaborate on: Tooling for the AI Engineer... Knowledge Graph Tooling
+    🔭 I’m currently working on: [Synavate Github](https://github.com/snyata/) :: www.synavate.tech (v0.0.2 POC is in development following successful discovery & research)
+    🌱 I’m currently learning: ALL THE THINGS... Exploring systems programming through rust
+    👯 I’m looking to collaborate on: Tooling for the AI Engineer, High performance compute dabbling... Knowledge Graph Tooling
     🤔 I’m looking for help with: ** Structuring my code in the most effective way... and when to use Classes. Also, generally doing interesting stuff and things...
     ⚡ Fun fact: I really think it smells like UpDog in here.....
 
