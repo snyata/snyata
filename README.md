@@ -1,4 +1,4 @@
-# THIS IS UNDER CONSTRUCTION - Zen Mind, Beginner'ss Mind HUZZAH!
+# THIS IS UNDER CONSTRUCTION - Zen Mind, Beginner's Mind - HUZZAH! 👾
 
 # Projects
 ### Synavate:
