@@ -5,10 +5,10 @@
 ### [Link Synavate Github - POCv0.02](https://www.github.com/synavate/)
 
 ### Defensive AI - Orion Constellation - A Hunter and a set of agents. Early exploration
-### [Link Orion Constellation Github - POCv0.02](https://www.github.com/orion-constellation/)
+### [Link Orion Constellation Github](https://www.github.com/orion-constellation/)
 
 ### QiskitRustkit - Exploring QML and Rust for more information saturation.
-### ### [Link Orion Agents Github - POCv0.02](https://www.github.com/synata/qiskit-ruskit/)
+### ### [Link Orion Agents Github](https://www.github.com/synata/qiskit-ruskit/)
 
 
 ../../../../../../..  👋 👾
