@@ -13,7 +13,7 @@
 #### [Link Orion Agents](https://www.github.com/orionagents)
 
 ### QiskitRustkit - Exploring QML and Rust for more information saturation.
-#### ### [Link QiskitRustkit Github](https://www.github.com/synata/qiskit-ruskit/)
+#### [Link QiskitRustkit Github](https://www.github.com/synata/qiskit-ruskit/)
 
 
 ../../../../../../..  👋 👾
