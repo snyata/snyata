@@ -9,7 +9,8 @@
 
 ### Defensive AI - Orion Constellation - A Hunter and a set of agents. Early exploration.
 #### [Link Orion Constellation Github](https://www.github.com/orion-constellation/)
-#### [Link Orion Constellation Github](https://www.github.com/orion-constellation/)
+#### [Link Orion Hunts](https://www.github.com/orionhunts-ai)
+#### [Link Orion Agents](https://www.github.com/orionagents)
 
 ### QiskitRustkit - Exploring QML and Rust for more information saturation.
 #### ### [Link QiskitRustkit Github](https://www.github.com/synata/qiskit-ruskit/)
