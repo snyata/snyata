@@ -1,7 +1,7 @@
-# Synata :: Always a Beginner 👾👾 🤗
+# Synata :: Always a Beginner :: 👾👾 🤗
 ## Infinitely Curious, Insufferably Impatient
 
-#### Tech
+#### Tech::Domains
 - ML/MLOps
 - AI Engineering (Fine Tuning, RAG, LLM Applications
 - InfoSec w/ AI
@@ -10,17 +10,18 @@
 - MetaCognition
 - Mathematics
 
-## Languages:
+## Languages::Proficiency
 ***Py/PyTorch, Tranformers, TS/JS, Rust (Beginner)*** 
 
-#### Skills:
+#### Skills::Stuff&Things
+
 - Production Ideation/Vision/Planning
 - Architecture
 - Backend Development
 - Cloud Deployment
 - 🛑 Not front-end development
 
-## Projects
+## Projects::WIP ✍️ 👨🏻‍💻
 
 ## Synavate:
 ### ***[Link Synavate Github](https://www.github.com/synavate/)***
@@ -42,6 +43,7 @@
 ---------------------
 
 ../../../../../../..  👋 👾👾👾 👋
+
  --------------------- 
 
     🔭 I’m currently working on: Orion Threat Intelligence  [Orion AI Constellation Github](https://github.com/orion-constellation/) :: www.synavate.tech (v0.0.2 POC is in development following successful discovery & research)
@@ -49,10 +51,10 @@
     👯 I’m looking to collaborate on: Tooling for the AI Engineer, High performance compute dabbling... Knowledge Graph Tooling
     🤔 I’m looking for help with: *** Systems Programming to Get ahead of multi-model cohorts, Knowledge Graph Generation.
     ⚡ Fun fact: I really think it smells like UpDog in here.....
+    
   --------------------
 
-core@synavate.tech || [Orion Landing Page (Apologies for any broken links](https://www.oriondefensiveai.com/)
-
+core@synavate.tech || [Orion Landing Page (Apologies for any broken links)](https://www.oriondefensiveai.com/)
 
 ---------------------
 
