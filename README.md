@@ -1,5 +1,7 @@
-# Synata :: Always a Beginner :: 👾👾 🤗
+# Snyata :: Always a Beginner :: 👾👾 🤗
 ## Infinitely Curious, Insufferably Impatient
+
+#### Inspire by sanskrit { Śūnyatā::Emptiness, Nothingness }
 
 #### Tech::Domains
 - ML/MLOps
