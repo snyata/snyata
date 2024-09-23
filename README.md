@@ -4,6 +4,7 @@
 Research at :: Nentropic 0x0 ::
 #### ***[:: Nentropic Research 0x0 :: ](https://www.github.com/nentropic-0x0)***
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snyata)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #### Inspire by sanskrit { Śūnyatā::Emptiness, Nothingness }
@@ -49,7 +50,8 @@ Research at :: Nentropic 0x0 ::
 
 ---------------------
 
-../../../../../../..  👋 👾👾👾 👋
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1lM6DWOe0KJsmxW73PE36J?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>}
+
 
  --------------------- 
 
