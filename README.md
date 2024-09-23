@@ -1,10 +1,10 @@
 # Snyata :: Always a Beginner :: 👾👾 🤗
 ## Infinitely Curious, Insufferably Impatient
 
-Research at :: Nentropic 0x0 ::
+Also Follow Our Research at :: Nentropic 0x0 ::
 #### ***[:: Nentropic Research 0x0 :: ](https://www.github.com/nentropic-0x0)***
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snyata)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snyata)](https://github.com/anuraghazra/github-readme-stats?hide_progress=true&layout=pie&layout=center)
 
 
 #### Inspire by sanskrit { Śūnyatā::Emptiness, Nothingness }
