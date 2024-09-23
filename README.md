@@ -1,6 +1,11 @@
 # Snyata :: Always a Beginner :: 👾👾 🤗
 ## Infinitely Curious, Insufferably Impatient
 
+Research at :: Nentropic 0x0 ::
+#### ***[:: Nentropic Research 0x0 :: ](https://www.github.com/nentropic-0x0)***
+
+
+
 #### Inspire by sanskrit { Śūnyatā::Emptiness, Nothingness }
 
 #### Tech::Domains
